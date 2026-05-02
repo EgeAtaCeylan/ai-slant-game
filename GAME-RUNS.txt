@@ -1,0 +1,192 @@
+GAME-1
+
+WELCOME TO THE GAME
+YOU WILL HAVE / TO FILL THE BOARD
+THE GAME WILL NOW START
+Here is the current game board
+1  --- -1  --- 1
+|   1   |   2   |       
+-1  --- 2  --- -1
+|   3   |   4   |       
+-1  --- -1  --- 1
+Please select a cell to fill: 4
+No one has received points this round
+Total points
+ You:  0 
+ Ai:  0
+Here is the resulting game board
+1  --- -1  --- 1
+|   1   |   2   |       
+-1  --- 2  --- -1
+|   3   |   /   |       
+-1  --- -1  --- 1
+
+
+
+AI HAS NOW STARTED THINKING ABOUT ITS OWN MOVE.
+STILL THINKING...
+STILL THINKING...
+STILL THINKING...
+Finally found it
+AI has filled the cell  2  with \
+No one has received points this round
+Total points
+ You:  0 
+ Ai:  0
+Here is the resulting game board
+1  --- -1  --- 1
+|   1   |   \   |       
+-1  --- 2  --- -1
+|   3   |   /   |       
+-1  --- -1  --- 1
+
+
+
+Here is the current game board
+1  --- -1  --- 1
+|   1   |   \   |       
+-1  --- 2  --- -1
+|   3   |   /   |       
+-1  --- -1  --- 1
+Please select a cell to fill: 1
+No one has received points this round
+Total points
+ You:  0 
+ Ai:  0
+Here is the resulting game board
+1  --- -1  --- 1
+|   /   |   \   |       
+-1  --- 2  --- -1
+|   3   |   /   |       
+-1  --- -1  --- 1
+
+
+
+AI HAS NOW STARTED THINKING ABOUT ITS OWN MOVE.
+STILL THINKING...
+Finally found it
+AI has filled the cell  3  with \
+No one has received points this round
+Total points
+ You:  0 
+ Ai:  0
+Here is the resulting game board
+1  --- -1  --- 1
+|   /   |   \   |       
+-1  --- 2  --- -1
+|   \   |   /   |       
+-1  --- -1  --- 1
+
+
+
+
+
+
+The game has finished
+Here are the final points
+Total points
+ You:  0 
+ Ai:  0
+The game has resulted in draw
+
+
+
+
+GAME-2
+
+WELCOME TO THE GAME
+YOU WILL HAVE / TO FILL THE BOARD
+THE GAME WILL NOW START
+Here is the current game board
+1  --- -1  --- 1
+|   1   |   2   |       
+-1  --- 2  --- -1
+|   3   |   4   |       
+-1  --- -1  --- 1
+Please select a cell to fill: 2
+You have received  1  points
+ AI has lost  1  points
+Total points
+ You:  1 
+ Ai:  -1
+Here is the resulting game board
+1  --- -1  --- 1
+|   1   |   /   |       
+-1  --- 2  --- -1
+|   3   |   4   |       
+-1  --- -1  --- 1
+
+
+
+AI HAS NOW STARTED THINKING ABOUT ITS OWN MOVE.
+STILL THINKING...
+STILL THINKING...
+STILL THINKING...
+STILL THINKING...
+STILL THINKING...
+Finally found it
+AI has filled the cell  1  with \
+AI has received  3  points
+ You have lost  3  points
+Total points
+ You:  -2 
+ Ai:  2
+Here is the resulting game board
+1  --- -1  --- 1
+|   \   |   /   |       
+-1  --- 2  --- -1
+|   3   |   4   |       
+-1  --- -1  --- 1
+
+
+
+Here is the current game board
+1  --- -1  --- 1
+|   \   |   /   |       
+-1  --- 2  --- -1
+|   3   |   4   |       
+-1  --- -1  --- 1
+Please select a cell to fill: 4
+No one has received points this round
+Total points
+ You:  -2 
+ Ai:  2
+Here is the resulting game board
+1  --- -1  --- 1
+|   \   |   /   |       
+-1  --- 2  --- -1
+|   3   |   /   |       
+-1  --- -1  --- 1
+
+
+
+AI HAS NOW STARTED THINKING ABOUT ITS OWN MOVE.
+STILL THINKING...
+STILL THINKING...
+STILL THINKING...
+STILL THINKING...
+STILL THINKING...
+Finally found it
+AI has filled the cell  3  with \
+No one has received points this round
+Total points
+ You:  -2 
+ Ai:  2
+Here is the resulting game board
+1  --- -1  --- 1
+|   \   |   /   |       
+-1  --- 2  --- -1
+|   \   |   /   |       
+-1  --- -1  --- 1
+
+
+
+
+
+
+The game has finished
+Here are the final points
+Total points
+ You:  -2 
+ Ai:  2
+Ai has won the game
